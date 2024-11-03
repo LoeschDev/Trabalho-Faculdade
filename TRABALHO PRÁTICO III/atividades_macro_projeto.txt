@@ -1,0 +1,34 @@
+
+ATIVIDADES MACRO DO CICLO DE VIDA DO PROJETO
+
+1. INICIAÇÃO
+- Definir o objetivo e o escopo do sistema de reservas online.
+- Identificar as partes interessadas, como o hotel e os desenvolvedores.
+- Verificar a viabilidade do projeto (tempo, custo e tecnologia).
+- Formalizar o início do projeto com aprovação dos envolvidos.
+
+2. PLANEJAMENTO
+- Criar o plano do projeto com cronograma, orçamento e recursos.
+- Definir o que o sistema precisa ter: reservas, pagamento, controle de quartos.
+- Planejar a equipe, definir riscos e como será a comunicação entre todos.
+- Planejar testes para garantir que tudo funcione bem.
+
+3. EXECUÇÃO
+- Organizar a equipe e dividir as tarefas do sistema.
+- Desenvolver o sistema e suas funcionalidades principais.
+- Integrar o sistema com o que o hotel já usa (inventário, pagamentos).
+- Manter todos informados sobre o progresso e resolver problemas.
+- Realizar testes iniciais para ajustes.
+
+4. MONITORAMENTO E CONTROLE
+- Acompanhar o progresso do projeto para manter prazo e orçamento.
+- Gerenciar mudanças no escopo e no cronograma.
+- Assegurar a qualidade do sistema e fazer testes contínuos.
+- Informar o desempenho para os envolvidos.
+
+5. ENCERRAMENTO
+- Encerrar o projeto formalmente, confirmando que os objetivos foram alcançados.
+- Treinar os funcionários do hotel para usar o sistema.
+- Avaliar o desempenho do projeto e documentar as lições aprendidas.
+- Liberar a equipe e fechar o projeto.
+
